@@ -48,6 +48,9 @@ nav li a {
   font-size: 20px;
   border: none;
 }
+.secondary-bg {
+  background-color: #fff8f3;
+}
 /*banner style*/
 .banner {
   display: flex;
